@@ -7,7 +7,6 @@ Miami, Florida, United States
 
 ## Experience
 
-![Kaseya Logo](https://media.licdn.com/dms/image/v2/D560BAQGvIcqYKN0uNA/company-logo_100_100/B56Za2at2eH0AU-/0/1746817179485/kaseya_logo?e=1759363200&v=beta&t=_jq8s_4IYE9yuzaFVJQp-EdCZF4kS4bqS5UEQnyCicw)
 ### Software Development Engineer II
 **Kaseya · Full-time**  
 May 2022 - Present
@@ -21,7 +20,6 @@ Miami, Florida, United States
 
 ---
 
-![DML IT Solutions Logo](https://media.licdn.com/dms/image/v2/D560BAQHukrvWYNNSsg/company-logo_100_100/company-logo_100_100/0/1715880037682/dml_it_solutions_logo?e=1759363200&v=beta&t=teX20ZT_8LYM8Qoz3bmkcVJ2mXP6rspVzZTCAuw982M)
 ### Security Operations Associate
 **DML IT Solutions · Full-time**  
 Aug 2019 - May 2022 · 2 yrs 10 mos  
@@ -35,7 +33,6 @@ Sep 2017 - Aug 2019 · 2 yrs
 
 ---
 
-![Micro Center Logo](https://media.licdn.com/dms/image/v2/D560BAQEDd46BYVUIxw/company-logo_100_100/company-logo_100_100/0/1665076021944/micro_center_logo?e=1759363200&v=beta&t=wIO3I5qYQkzCRzYYbFPK_5N-Sq3IVZcdGG9dSGFHkYo)
 ### Service Technician
 **Micro Center · Full-time**  
 May 2017 - Sep 2017 · 5 mos  
@@ -43,7 +40,6 @@ Tustin, California
 
 ---
 
-![US Army Logo](https://media.licdn.com/dms/image/v2/C4E0BAQEp91nGwnXLng/company-logo_100_100/company-logo_100_100/0/1678286107166/us_army_logo?e=1759363200&v=beta&t=uUkEkSfkXTh0dSciFv55KiPTm9xE5T70mh3VU2Tjx7E)
 ### Security Program Manager
 **US Army · Full-time**  
 Aug 2016 - May 2017 · 10 mos  
@@ -73,7 +69,6 @@ Feb 2009 - Aug 2016 · 7 yrs 7 mos
 
 ## Education
 
-![FIU Logo](https://media.licdn.com/dms/image/v2/D4E0BAQESumC9ySWbYA/company-logo_100_100/company-logo_100_100/0/1666125777950/florida_international_university_logo?e=1759363200&v=beta&t=GOKN8UNu63moLMBtkJatKKK9fLPsVbVmVbXVj6e7msA)
 ### Florida International University
 **Bachelor of Science - BS, Computer Science**  
 2020 - 2022  
@@ -81,7 +76,6 @@ Grade: 3.8 GPA · cum laude
 
 - Senior project: Machine Learning application that analyzes Windows application logs to identify early indicators for ransomware attacks.
 
-![Cochise College Logo](https://media.licdn.com/dms/image/v2/C4E0BAQESpuroXLx-BQ/company-logo_100_100/company-logo_100_100/0/1631337726225?e=1759363200&v=beta&t=5BsETcMEsuxT6WBmDQijZJGp85bDCDeOI8bRdPGEU00)
 ### Cochise College
 **Associate of Applied Sciences, Signals Intelligence**  
 2014 - 2016  
