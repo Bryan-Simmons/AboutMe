@@ -7,6 +7,8 @@ Miami, Florida, United States
 
 ## Experience
 
+<img src="./logos/kaseya.svg" alt="Kaseya Logo" width="100" height="30">
+
 ### Software Development Engineer II
 **Kaseya · Full-time**  
 May 2022 - Present
@@ -19,6 +21,8 @@ Miami, Florida, United States
 - **Frontend:** React, JavaScript, Material UI, CSS, HTML
 
 ---
+
+<img src="./logos/dml_it_solutions_logo.jpg" alt="DML IT Solutions Logo" width="100">
 
 ### Security Operations Associate
 **DML IT Solutions · Full-time**  
@@ -33,12 +37,16 @@ Sep 2017 - Aug 2019 · 2 yrs
 
 ---
 
+<img src="./logos/micro_center_logo.jpg" alt="Micro Center Logo" width="100">
+
 ### Service Technician
 **Micro Center · Full-time**  
 May 2017 - Sep 2017 · 5 mos  
 Tustin, California  
 
 ---
+
+<img src="./logos/us_army_logo.jpg" alt="US Army Logo" width="100">
 
 ### Security Program Manager
 **US Army · Full-time**  
@@ -69,12 +77,16 @@ Feb 2009 - Aug 2016 · 7 yrs 7 mos
 
 ## Education
 
+<img src="./logos/florida_international_university_logo.jpg" alt="FIU Logo" width="100">
+
 ### Florida International University
 **Bachelor of Science - BS, Computer Science**  
 2020 - 2022  
 Grade: 3.8 GPA · cum laude  
 
 - Senior project: Machine Learning application that analyzes Windows application logs to identify early indicators for ransomware attacks.
+
+<img src="./logos/cochise_college_logo.jpg" alt="Cochise College Logo" width="100">
 
 ### Cochise College
 **Associate of Applied Sciences, Signals Intelligence**  
